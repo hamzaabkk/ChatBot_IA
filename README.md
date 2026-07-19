@@ -4,7 +4,7 @@
 
 Projet réalisé dans le cadre du stage Data & IA chez Alten.
 
-Objectif :
+Objectif ::
 Développer un chatbot IA capable de comprendre une question en langage naturel, de la convertir en requête SQL, d'interroger une base de données RH puis de retourner la réponse de manière claire.
 
 ---
