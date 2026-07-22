@@ -1,0 +1,52 @@
+===== RAPPORT QUALITE DES DONNEES =====
+
+Fichier : train_spider.csv
+Nombre de lignes : 6992
+Nombre de colonnes : 50
+Colonnes critiques vérifiées : question, query, db_id
+Valeurs manquantes : 0
+Taux de valeurs manquantes : 0.00%
+Complétude : OK
+Doublons : 0
+Taux de doublons : 0.00%
+Unicité : OK
+Âge du fichier : 0 jours
+Fraîcheur : OK
+
+---------------------------
+
+Fichier : dev.csv
+Nombre de lignes : 1034
+Nombre de colonnes : 61
+Colonnes critiques vérifiées : question, query, db_id
+Valeurs manquantes : 0
+Taux de valeurs manquantes : 0.00%
+Complétude : OK
+Doublons : 0
+Taux de doublons : 0.00%
+Unicité : OK
+Âge du fichier : 0 jours
+Fraîcheur : OK
+
+---------------------------
+
+Fichier : tables.csv
+Nombre de lignes : 166
+Nombre de colonnes : 8
+Colonnes critiques absentes, contrôle sur toutes les colonnes.
+Valeurs manquantes : 0
+Taux de valeurs manquantes : 0.00%
+Complétude : OK
+Doublons : 0
+Taux de doublons : 0.00%
+Unicité : OK
+Âge du fichier : 0 jours
+Fraîcheur : OK
+
+---------------------------
+
+========== RESUME ==========
+Fichiers analysés : 3
+Fichiers valides : 3
+Alertes : 0
+Qualité globale : OK
