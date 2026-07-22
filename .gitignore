@@ -17,3 +17,5 @@ data/*.csv
 # Éditeurs / OS
 .vscode/
 .DS_Store
+#Dataset Spider
+data/raw/Spider/
